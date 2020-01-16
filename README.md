@@ -11,8 +11,8 @@ A single page Next.js Application using styled-components for styling
 This project is a simple single page app built with Next.js and styled with styled-components. It is built to showcase my design skills and also emphasize my understanding of React, Next.js and styled-components; It is also responsive and adapts to different screen sizes accordingly.
 
 # Screenshots
-![Desktop screenshot](./images/Screenshot-desktop.png)
-![Mobile screenshot](./images/Screenshot-mobile.png)
+![Desktop screenshot](./static/images/Screenshot-desktop.png)
+![Mobile screenshot](./static/images/Screenshot-mobile.png)
 
 # Technologies
 * Next.js 9.1.7
