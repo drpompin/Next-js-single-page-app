@@ -1,7 +1,7 @@
 # Next.js-single-page-app
 A single page Next.js Application using styled-components for styling
 
-https://fylo-heroku.herokuapp.com/
+https://nextjs-single-page-app.herokuapp.com/
 
 ## Table of contents
 * [General info](#general-info)
